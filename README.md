@@ -74,6 +74,6 @@ http://localhost/proje/public adresine gidin
 
 
 ## Linkler
-- Kaynak Kodlar:[Tıklayınız]()
+- Kaynak Kodlar:[Tıklayınız](https://github.com/semaimre/url-kisalt/tree/main/proje)
 - AI sohbeti:[Tıklayınız](https://chatgpt.com/share/68512cde-f72c-8013-a2d6-388ac765dfed)
 
